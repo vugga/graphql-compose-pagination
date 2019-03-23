@@ -1,6 +1,6 @@
 {
-  "name": "graphql-compose-pagination",
-  "version": "0.0.0-semantically-released",
+  "name": "@vuga/graphql-pagination",
+  "version": "0.0.2",
   "description": "Plugin for `graphql-compose` which provide a pagination resolver for types.",
   "files": [
     "lib",
@@ -13,7 +13,7 @@
   "types": "types/index.d.ts",
   "repository": {
     "type": "git",
-    "url": "https://github.com/graphql-compose/graphql-compose-pagination.git"
+    "url": "https://github.com/vugga/graphql-compose-pagination.git"
   },
   "keywords": [
     "graphql",
@@ -24,9 +24,9 @@
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/graphql-compose/graphql-compose-pagination/issues"
+    "url": "https://github.com/vugga/graphql-compose-pagination/issues"
   },
-  "homepage": "https://github.com/graphql-compose/graphql-compose-pagination",
+  "homepage": "https://github.com/vugga/graphql-compose-pagination",
   "peerDependencies": {
     "graphql-compose": ">=6.0.0"
   },
